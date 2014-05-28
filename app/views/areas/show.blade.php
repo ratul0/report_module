@@ -1,0 +1,1 @@
+F:\apps\xampp\htdocs\infancy\locker\app/views/areas/show.blade.php
